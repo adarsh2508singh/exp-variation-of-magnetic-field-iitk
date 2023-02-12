@@ -1,4 +1,3 @@
-### Theory
 The magnetic field created by a current carrying coil can be determined using Biot-Savart's law. According to the law, the magnetic field at a point P due to a small current element dl at a distance r from P is given by:<br><br>
 B = (μ0 * I * dl * sin(θ)) / (4 * π * r^2) <br><br>
 Where:<br>
