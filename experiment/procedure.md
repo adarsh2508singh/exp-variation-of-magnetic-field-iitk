@@ -1,4 +1,3 @@
-### Procedure
 To determine the variation of magnetic field with the distance along the axis of a current carrying coil, follow these steps:<br>
 1. Obtain a current carrying coil and a Gaussmeter or a Hall effect sensor to measure magnetic field.
 2. Place the Gaussmeter or Hall effect sensor at a fixed distance from the center of the coil and measure the magnetic field.
