@@ -1,7 +1,4 @@
-
-	
-	
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<!-- Add CSS at the head of HTML file -->
@@ -1644,7 +1641,7 @@ Step :-
 <br>
 <div class="downcontrol">
 	Number of turn of the coil <span id="coil-display">0 </span>
-	<input type="range" min="10" max="45" step="10" value="0"  class="slider" id="turn"
+	<input type="range" min="10" max="45" step="1" value="0"  class="slider" id="turn"
 		  oninput="getTurn(this.id)">
 
 		  
@@ -1661,8 +1658,11 @@ Step :-
 
 <!-- 
 	table -->
-
-	<table border="1" id="table" class="customers" style="font-size: 20px; background-color: #c6fbfa; ">
+<div class="tablestyle">
+	<h2 style="margin-left: 25%; margin-bottom: 20px; color: #025B19;"  >
+		Table for calculation of variation of magnetic field.
+	</h2>
+	<table border="1" id="table" class="customers" style="font-size: 20px; background-color: #c6fbfa;">
 		<tr>
 			<th rowspan="3">S. no</th>
 			<th rowspan="3">Distance from center</th>
@@ -1674,10 +1674,10 @@ Step :-
 			<th rowspan="3"> B <sub>o</sub>(T) </th>
 </tr>
 <tr>
-			<th colspan="2">direct</th>
-			<th colspan="2">reversed</th>
-			<th colspan="2">direct</th>
-			<th colspan="2">reversed</th>
+			<th colspan="2">direct(radian)</th>
+			<th colspan="2">reversed(radian)</th>
+			<th colspan="2">direct(radian)</th>
+			<th colspan="2">reversed(radian)</th>
 			
 			</tr>
 			<tr>
@@ -1698,12 +1698,9 @@ Step :-
 	<div>
 		<button onclick="procedure()" style="margin-top:20px;margin-left:40px">Add Row</button>
 	</div>
-
+</div>
 
 	<!-- Add JS at the bottom of HTML file --> 
         <script src="./js/main.js"></script>
 </body>
 </html>
-
-
-	
