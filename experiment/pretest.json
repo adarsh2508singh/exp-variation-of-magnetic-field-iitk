@@ -28,11 +28,28 @@
       },
       "explanations": {
         "a": "Explanation 2",
-        "b": "For a coil carrying current, magnetic field at its center is B ∝1/R. Hence on doubling the radius, magnetic field reduces to half. ",
+        "b": "For a coil carrying current, the magnetic field at its center is B ∝1/R. Hence on doubling the radius, magnetic field reduces to half. ",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What fundamental principle describes the magnetic field produced by a current-carrying coil?",
+      "answers": {
+        "a": "Faraday's Law",
+        "b": "Ampère's Law",
+        "c": " Ohm's Law",
+        "d": " Biot-Savart's Law"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "not correct ",
+        "c": "Explanation 2",
+        "d": "Biot-Savart's Law describes the magnetic field produced by a current-carrying conductor at any point in space."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
