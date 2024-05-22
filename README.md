@@ -22,4 +22,4 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dr. ASHUTOSH TIWARI | FACULTY | APPLIED SCIENCE | RAJKIYA ENGINEERING COLLEGE BANDA | ashutosh.tiwari@recbanda.ac.in
 2 | ADARSH SINGH | STUDENT | INFORMATION TECHNOLOGY | RAJKIYA ENGINEERING COLLEGE BANDA | adarshsingh2508@gmail.com
-3 | RAHUL PUSHPAKAR | STUDENT | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA | rahulpushpker@gmail.com
+
